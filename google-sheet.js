@@ -30,7 +30,7 @@ $("#orderform").submit(function(event){
 
     // Fire off the request to /form.php
     request = $.ajax({
-        url: "https://bestshoping.website/go/?order=ghYsp17YQkSTFa1DYVIrr6HM5eSgW3",
+        url: "https://script.google.com/macros/s/AKfycbwyQQHm2wtfRSV1bj6BBdntNBBxm2SnMF61FQEFeI_Av1fE6PXC2gd7KWPxwf894SI/exec",
         type: "post",
         data: serializedData
     });
